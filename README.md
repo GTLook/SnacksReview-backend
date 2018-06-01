@@ -1,5 +1,7 @@
 # Snacks (Backend)
 
+https://snackreviews.herokuapp.com/
+
 Snacks is a snack rating and review web application.  It allows user to create a profile, log in, and leave a review and rating for the seeded snacks.
 
 ## Getting Started
@@ -42,7 +44,7 @@ npm run dev
 
 ## Deployment
 
-This project has been deployed on Heroku at the adsress:
+This project has been deployed on Heroku at the address: https://safe-inlet-85057.herokuapp.com/api/snacks
 
 ## Built With
 
